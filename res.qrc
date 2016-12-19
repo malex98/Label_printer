@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>images/5ka.gif</file>
+        <file>images/magnit.gif</file>
+        <file>images/refresh.svg</file>
+    </qresource>
+</RCC>
